@@ -1,2 +1,2 @@
 # .github
-AI for construction projects
+[Asenti AS](https://www.asenti.no)
